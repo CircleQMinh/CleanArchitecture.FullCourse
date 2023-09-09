@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\CircleCat.CleanArchitecture.FullCourse\CircleCat.CleanArchitecture.FullCourse.Application\bin\Debug\net7.0\CircleCat.CleanArchitecture.FullCourse.Application.deps.json
+C:\Users\Admin\source\repos\CircleCat.CleanArchitecture.FullCourse\CircleCat.CleanArchitecture.FullCourse.Application\bin\Debug\net7.0\CircleCat.CleanArchitecture.FullCourse.Application.dll
+C:\Users\Admin\source\repos\CircleCat.CleanArchitecture.FullCourse\CircleCat.CleanArchitecture.FullCourse.Application\bin\Debug\net7.0\CircleCat.CleanArchitecture.FullCourse.Application.pdb
+C:\Users\Admin\source\repos\CircleCat.CleanArchitecture.FullCourse\CircleCat.CleanArchitecture.FullCourse.Application\bin\Debug\net7.0\CircleCat.CleanArchitecture.FullCourse.Domain.dll
+C:\Users\Admin\source\repos\CircleCat.CleanArchitecture.FullCourse\CircleCat.CleanArchitecture.FullCourse.Application\bin\Debug\net7.0\CircleCat.CleanArchitecture.FullCourse.Domain.pdb
+C:\Users\Admin\source\repos\CircleCat.CleanArchitecture.FullCourse\CircleCat.CleanArchitecture.FullCourse.Application\obj\Debug\net7.0\CircleCat.CleanArchitecture.FullCourse.Application.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CircleCat.CleanArchitecture.FullCourse\CircleCat.CleanArchitecture.FullCourse.Application\obj\Debug\net7.0\CircleCat.CleanArchitecture.FullCourse.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CircleCat.CleanArchitecture.FullCourse\CircleCat.CleanArchitecture.FullCourse.Application\obj\Debug\net7.0\CircleCat.CleanArchitecture.FullCourse.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CircleCat.CleanArchitecture.FullCourse\CircleCat.CleanArchitecture.FullCourse.Application\obj\Debug\net7.0\CircleCat.CleanArchitecture.FullCourse.Application.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CircleCat.CleanArchitecture.FullCourse\CircleCat.CleanArchitecture.FullCourse.Application\obj\Debug\net7.0\CircleCat.CleanArchitecture.FullCourse.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CircleCat.CleanArchitecture.FullCourse\CircleCat.CleanArchitecture.FullCourse.Application\obj\Debug\net7.0\CircleCat.CleanArchitecture.FullCourse.Application.csproj.CopyComplete
+C:\Users\Admin\source\repos\CircleCat.CleanArchitecture.FullCourse\CircleCat.CleanArchitecture.FullCourse.Application\obj\Debug\net7.0\CircleCat.CleanArchitecture.FullCourse.Application.dll
+C:\Users\Admin\source\repos\CircleCat.CleanArchitecture.FullCourse\CircleCat.CleanArchitecture.FullCourse.Application\obj\Debug\net7.0\refint\CircleCat.CleanArchitecture.FullCourse.Application.dll
+C:\Users\Admin\source\repos\CircleCat.CleanArchitecture.FullCourse\CircleCat.CleanArchitecture.FullCourse.Application\obj\Debug\net7.0\CircleCat.CleanArchitecture.FullCourse.Application.pdb
+C:\Users\Admin\source\repos\CircleCat.CleanArchitecture.FullCourse\CircleCat.CleanArchitecture.FullCourse.Application\obj\Debug\net7.0\ref\CircleCat.CleanArchitecture.FullCourse.Application.dll

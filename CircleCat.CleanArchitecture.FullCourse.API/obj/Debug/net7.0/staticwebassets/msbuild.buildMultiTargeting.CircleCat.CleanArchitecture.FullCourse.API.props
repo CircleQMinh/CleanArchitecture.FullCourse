@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CircleCat.CleanArchitecture.FullCourse.API.props" />
+</Project>
